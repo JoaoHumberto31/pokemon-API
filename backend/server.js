@@ -1,18 +1,18 @@
-const express = require('express'); // Importa o Express
+const express = require('express');
 const cors = require('cors');
+const fs = require('fs');
 
-const app = express(); //Cria o servidor
-
-
-//Para permitir receber json nas requisições
+const app = express();
 app.use(express.json());
 app.use(cors());
 
-//request - requisição
-//response - respota
-app.get('/pokemons', (req, res) => {
-    res.json(pokemons);
-  });
-  app.listen(8000, () => {
-    console.log(`Servidor rodando na porta 8000`);
-  });
+// Lê o JSON local
+let pokemon = JSON.parse(fs.readFileSync('pokemons.json'));
+
+app.get('/pokemon', (req, res) => {
+  res.json(pokemon);
+});
+
+app.listen(8000, () => {
+  console.log('Servidor rodando em http://localhost:8000');
+});

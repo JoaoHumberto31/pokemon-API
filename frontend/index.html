@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="img/pokedex.webp">
+  <title>Pokédex</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Pokédex</h1>
+  </header>
+
+  <!-- Campo de busca -->
+  <div class="search-container">
+    <input type="text" id="search" placeholder="Busque pelo nome">
+    <button class="button-search" onclick="procurarPokemon()"><img src="img/search_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.png" alt="lupa"></button>
+  </div>
+
+  <!-- Lista de Pokémon -->
+  <div id="pokemon-list" class="pokemon-list"></div>
+
+  <!-- Modal de detalhes -->
+  <div id="pokemon-modal" class="pokemon-modal">
+    <div class="modal-content">
+      <span id="close-modal" class="close-modal">&times;</span>
+      <h2 id="pokemon-name"></h2>
+      <img id="pokemon-image" alt="Imagem do Pokémon">
+      <p id="pokemon-types"></p>
+      <p id="pokemon-abilities"></p>
+      <p id="pokemon-evolutions"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

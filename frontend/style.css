@@ -1,0 +1,145 @@
+/* Fonte pixelada */
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  /* Header */
+  header {
+    text-align: center;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 20px;
+    font-size: 24px;
+    text-shadow: 2px 2px #000;
+  }
+  
+  /* Campo de busca */
+  .search-container {
+    display: flex;              
+    justify-content: center;    
+    align-items: center;       
+    gap: 10px;                  
+    margin: 20px;
+  }
+  
+  #search {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 400px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .button-search {
+    display: flex;               
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;           
+    background-color: red;
+    border: solid black 2px;
+    border-radius: 40px;
+  }
+  
+  .button-search img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  
+  #search {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 400px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Lista de Pokémon */
+  .pokemon-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+  }
+  
+  /* Card de Pokémon */
+  .pokemon-card {
+    width: 150px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    padding: 10px;
+  }
+  
+  .pokemon-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  }
+  
+  .pokemon-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .pokemon-card h3 {
+    margin: 10px 0 5px 0;
+    font-size: 16px;
+  }
+  
+  /* Modal */
+  .pokemon-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+  }
+  
+  .modal-content {
+    position: relative;
+    background-color: #fff;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    animation: fadeIn 0.3s ease-in-out;
+  }
+  
+  .close-modal {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 28px;
+    cursor: pointer;
+  }
+  
+  /* Animação do modal */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.8); }
+    to { opacity: 1; transform: scale(1); }
+  }
+  
+  /* Responsividade */
+  @media (max-width: 500px) {
+    .pokemon-card {
+      width: 45%;
+    }
+  }
+  

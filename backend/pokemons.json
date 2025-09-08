@@ -1,0 +1,1823 @@
+[
+  {
+    "name": "bulbasaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "venusaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ]
+  },
+  {
+    "name": "charmander",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ]
+  },
+  {
+    "name": "charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ]
+  },
+  {
+    "name": "squirtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "wartortle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "blastoise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "caterpie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ]
+  },
+  {
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "butterfree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens"
+    ]
+  },
+  {
+    "name": "weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shield-dust",
+      "run-away"
+    ]
+  },
+  {
+    "name": "kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shed-skin"
+    ]
+  },
+  {
+    "name": "beedrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "swarm",
+      "sniper"
+    ]
+  },
+  {
+    "name": "pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ]
+  },
+  {
+    "name": "rattata",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ]
+  },
+  {
+    "name": "raticate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "guts",
+      "hustle"
+    ]
+  },
+  {
+    "name": "spearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ]
+  },
+  {
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "sniper"
+    ]
+  },
+  {
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "arbok",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "intimidate",
+      "shed-skin",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "pikachu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "raichu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "sandshrew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "sand-rush"
+    ]
+  },
+  {
+    "name": "sandslash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "sand-rush"
+    ]
+  },
+  {
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ]
+  },
+  {
+    "name": "nidorina",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ]
+  },
+  {
+    "name": "nidoqueen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "nidoran-m",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ]
+  },
+  {
+    "name": "nidorino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "hustle"
+    ]
+  },
+  {
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "abilities": [
+      "poison-point",
+      "rivalry",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "clefairy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "friend-guard"
+    ]
+  },
+  {
+    "name": "clefable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "magic-guard",
+      "unaware"
+    ]
+  },
+  {
+    "name": "vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ]
+  },
+  {
+    "name": "ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "drought"
+    ]
+  },
+  {
+    "name": "jigglypuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "friend-guard"
+    ]
+  },
+  {
+    "name": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "abilities": [
+      "cute-charm",
+      "competitive",
+      "frisk"
+    ]
+  },
+  {
+    "name": "zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ]
+  },
+  {
+    "name": "golbat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "types": [
+      "poison",
+      "flying"
+    ],
+    "abilities": [
+      "inner-focus",
+      "infiltrator"
+    ]
+  },
+  {
+    "name": "oddish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "run-away"
+    ]
+  },
+  {
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "stench"
+    ]
+  },
+  {
+    "name": "vileplume",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "effect-spore"
+    ]
+  },
+  {
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ]
+  },
+  {
+    "name": "parasect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "abilities": [
+      "effect-spore",
+      "dry-skin",
+      "damp"
+    ]
+  },
+  {
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens",
+      "run-away"
+    ]
+  },
+  {
+    "name": "venomoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "abilities": [
+      "shield-dust",
+      "tinted-lens",
+      "wonder-skin"
+    ]
+  },
+  {
+    "name": "diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "arena-trap",
+      "sand-force"
+    ]
+  },
+  {
+    "name": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "arena-trap",
+      "sand-force"
+    ]
+  },
+  {
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "pickup",
+      "technician",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "persian",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "limber",
+      "technician",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "damp",
+      "cloud-nine",
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "golduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "damp",
+      "cloud-nine",
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "vital-spirit",
+      "anger-point",
+      "defiant"
+    ]
+  },
+  {
+    "name": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "vital-spirit",
+      "anger-point",
+      "defiant"
+    ]
+  },
+  {
+    "name": "growlithe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "justified"
+    ]
+  },
+  {
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "justified"
+    ]
+  },
+  {
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "poliwhirl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "poliwrath",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "abilities": [
+      "water-absorb",
+      "damp",
+      "swift-swim"
+    ]
+  },
+  {
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ]
+  },
+  {
+    "name": "kadabra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ]
+  },
+  {
+    "name": "alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "synchronize",
+      "inner-focus",
+      "magic-guard"
+    ]
+  },
+  {
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ]
+  },
+  {
+    "name": "machoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ]
+  },
+  {
+    "name": "machamp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ]
+  },
+  {
+    "name": "bellsprout",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ]
+  },
+  {
+    "name": "weepinbell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ]
+  },
+  {
+    "name": "victreebel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "gluttony"
+    ]
+  },
+  {
+    "name": "tentacool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "abilities": [
+      "clear-body",
+      "liquid-ooze",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "tentacruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "types": [
+      "water",
+      "poison"
+    ],
+    "abilities": [
+      "clear-body",
+      "liquid-ooze",
+      "rain-dish"
+    ]
+  },
+  {
+    "name": "geodude",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "graveler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "sand-veil"
+    ]
+  },
+  {
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "run-away",
+      "flash-fire",
+      "flame-body"
+    ]
+  },
+  {
+    "name": "rapidash",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "run-away",
+      "flash-fire",
+      "flame-body"
+    ]
+  },
+  {
+    "name": "slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "abilities": [
+      "oblivious",
+      "own-tempo",
+      "regenerator"
+    ]
+  },
+  {
+    "name": "slowbro",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "abilities": [
+      "oblivious",
+      "own-tempo",
+      "regenerator"
+    ]
+  },
+  {
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "abilities": [
+      "magnet-pull",
+      "sturdy",
+      "analytic"
+    ]
+  },
+  {
+    "name": "magneton",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "abilities": [
+      "magnet-pull",
+      "sturdy",
+      "analytic"
+    ]
+  },
+  {
+    "name": "farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "inner-focus",
+      "defiant"
+    ]
+  },
+  {
+    "name": "doduo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "run-away",
+      "early-bird",
+      "tangled-feet"
+    ]
+  },
+  {
+    "name": "dodrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "run-away",
+      "early-bird",
+      "tangled-feet"
+    ]
+  },
+  {
+    "name": "seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "thick-fat",
+      "hydration",
+      "ice-body"
+    ]
+  },
+  {
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "abilities": [
+      "thick-fat",
+      "hydration",
+      "ice-body"
+    ]
+  },
+  {
+    "name": "grimer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "stench",
+      "sticky-hold",
+      "poison-touch"
+    ]
+  },
+  {
+    "name": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "stench",
+      "sticky-hold",
+      "poison-touch"
+    ]
+  },
+  {
+    "name": "shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "shell-armor",
+      "skill-link",
+      "overcoat"
+    ]
+  },
+  {
+    "name": "cloyster",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "abilities": [
+      "shell-armor",
+      "skill-link",
+      "overcoat"
+    ]
+  },
+  {
+    "name": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "haunter",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "abilities": [
+      "levitate"
+    ]
+  },
+  {
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "abilities": [
+      "cursed-body"
+    ]
+  },
+  {
+    "name": "onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "types": [
+      "rock",
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "sturdy",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "drowzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "insomnia",
+      "forewarn",
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "hypno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "insomnia",
+      "forewarn",
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "kingler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "voltorb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ]
+  },
+  {
+    "name": "electrode",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ]
+  },
+  {
+    "name": "exeggcute",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "harvest"
+    ]
+  },
+  {
+    "name": "exeggutor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "harvest"
+    ]
+  },
+  {
+    "name": "cubone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "lightning-rod",
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "rock-head",
+      "lightning-rod",
+      "battle-armor"
+    ]
+  },
+  {
+    "name": "hitmonlee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "limber",
+      "reckless",
+      "unburden"
+    ]
+  },
+  {
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "keen-eye",
+      "iron-fist",
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "lickitung",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "own-tempo",
+      "oblivious",
+      "cloud-nine"
+    ]
+  },
+  {
+    "name": "koffing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "levitate",
+      "neutralizing-gas",
+      "stench"
+    ]
+  },
+  {
+    "name": "weezing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "types": [
+      "poison"
+    ],
+    "abilities": [
+      "levitate",
+      "neutralizing-gas",
+      "stench"
+    ]
+  },
+  {
+    "name": "rhyhorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "abilities": [
+      "lightning-rod",
+      "rock-head",
+      "reckless"
+    ]
+  },
+  {
+    "name": "rhydon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "abilities": [
+      "lightning-rod",
+      "rock-head",
+      "reckless"
+    ]
+  },
+  {
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "natural-cure",
+      "serene-grace",
+      "healer"
+    ]
+  },
+  {
+    "name": "tangela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "leaf-guard",
+      "regenerator"
+    ]
+  },
+  {
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "early-bird",
+      "scrappy",
+      "inner-focus"
+    ]
+  },
+  {
+    "name": "horsea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "sniper",
+      "damp"
+    ]
+  },
+  {
+    "name": "seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "poison-point",
+      "sniper",
+      "damp"
+    ]
+  },
+  {
+    "name": "goldeen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "water-veil",
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "seaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "water-veil",
+      "lightning-rod"
+    ]
+  },
+  {
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "illuminate",
+      "natural-cure",
+      "analytic"
+    ]
+  },
+  {
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "abilities": [
+      "illuminate",
+      "natural-cure",
+      "analytic"
+    ]
+  },
+  {
+    "name": "mr-mime",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "abilities": [
+      "soundproof",
+      "filter",
+      "technician"
+    ]
+  },
+  {
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "swarm",
+      "technician",
+      "steadfast"
+    ]
+  },
+  {
+    "name": "jynx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "types": [
+      "ice",
+      "psychic"
+    ],
+    "abilities": [
+      "oblivious",
+      "forewarn",
+      "dry-skin"
+    ]
+  },
+  {
+    "name": "electabuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "magmar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flame-body",
+      "vital-spirit"
+    ]
+  },
+  {
+    "name": "pinsir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "hyper-cutter",
+      "mold-breaker",
+      "moxie"
+    ]
+  },
+  {
+    "name": "tauros",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "intimidate",
+      "anger-point",
+      "sheer-force"
+    ]
+  },
+  {
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "rattled"
+    ]
+  },
+  {
+    "name": "gyarados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "types": [
+      "water",
+      "flying"
+    ],
+    "abilities": [
+      "intimidate",
+      "moxie"
+    ]
+  },
+  {
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "types": [
+      "water",
+      "ice"
+    ],
+    "abilities": [
+      "water-absorb",
+      "shell-armor",
+      "hydration"
+    ]
+  },
+  {
+    "name": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "limber",
+      "imposter"
+    ]
+  },
+  {
+    "name": "eevee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "adaptability",
+      "anticipation"
+    ]
+  },
+  {
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "water-absorb",
+      "hydration"
+    ]
+  },
+  {
+    "name": "jolteon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "volt-absorb",
+      "quick-feet"
+    ]
+  },
+  {
+    "name": "flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "guts"
+    ]
+  },
+  {
+    "name": "porygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "trace",
+      "download",
+      "analytic"
+    ]
+  },
+  {
+    "name": "omanyte",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "shell-armor",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "omastar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "shell-armor",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "battle-armor",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "kabutops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "types": [
+      "rock",
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "battle-armor",
+      "weak-armor"
+    ]
+  },
+  {
+    "name": "aerodactyl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "abilities": [
+      "rock-head",
+      "pressure",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "immunity",
+      "thick-fat",
+      "gluttony"
+    ]
+  },
+  {
+    "name": "articuno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "types": [
+      "ice",
+      "flying"
+    ],
+    "abilities": [
+      "pressure",
+      "snow-cloak"
+    ]
+  },
+  {
+    "name": "zapdos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "abilities": [
+      "pressure",
+      "static"
+    ]
+  },
+  {
+    "name": "moltres",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "abilities": [
+      "pressure",
+      "flame-body"
+    ]
+  },
+  {
+    "name": "dratini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "types": [
+      "dragon"
+    ],
+    "abilities": [
+      "shed-skin",
+      "marvel-scale"
+    ]
+  },
+  {
+    "name": "dragonair",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "types": [
+      "dragon"
+    ],
+    "abilities": [
+      "shed-skin",
+      "marvel-scale"
+    ]
+  },
+  {
+    "name": "dragonite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "abilities": [
+      "inner-focus",
+      "multiscale"
+    ]
+  },
+  {
+    "name": "mewtwo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ]
+  },
+  {
+    "name": "mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "synchronize"
+    ]
+  }
+]
